@@ -1,2 +1,2 @@
 # Chat-Application
-Chat with AI Bot
+Engage in a conversation with the AI bot.
